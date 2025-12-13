@@ -1,14 +1,9 @@
 {
-    "licenses": [
-        {
-            "userId": 1282115182,
-            "active": true,
-            "groups": []
-        },
-        {
-            "userId": ,
-            "active": true,
-            "groups": []
-        }
-    ]
+  "licenses": [
+    {
+      "active": true,
+      "userId": 123456789,
+      "groups": [123456]
+    }
+  ]
 }
